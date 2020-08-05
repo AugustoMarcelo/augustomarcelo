@@ -16,3 +16,7 @@
 
 - 🐦 [Twitter](https://twitter.com/mrclgst)
 - 💼 [LinkedIn](https://linkedin.com/in/augustomarcelo)
+
+---
+
+[![Marcelo Augusto's github stats](https://github-readme-stats.vercel.app/api?username=augustomarcelo&count_private=true&show_icons=true&theme=dracula)](https://github.com/augustomarcelo/github-readme-stats)
