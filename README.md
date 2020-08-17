@@ -11,6 +11,7 @@
 
 - 🦸 API about the Marvel Cinematic Universe (movies, tv shows, characters) - [mcuapi](https://github.com/augustomarcelo/mcuapi)
 - 💰 financial betting management system with cash flow (freelance)
+- 🚀 [Proffy Version 2.0](https://github.com/AugustoMarcelo/proffy) (Next Level Week, 2nd edition)
 
 ### 🔎 Where can you find me...
 
