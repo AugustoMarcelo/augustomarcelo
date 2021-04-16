@@ -10,8 +10,7 @@
 ### 🔭 I’m currently working on...
 
 - 🦸 API about the Marvel Cinematic Universe (movies, tv shows, characters) - [mcuapi](https://github.com/augustomarcelo/mcuapi)
-- 💰 financial betting management system with cash flow (freelance)
-- 🚀 [Move.it Version 2.0](https://github.com/AugustoMarcelo/move.it) (Next Level Week, 4th edition)
+- 👓 Optical clinic work order (API and frontend) (freelance)
 
 ### 🔎 Where can you find me...
 
