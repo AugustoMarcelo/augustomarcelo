@@ -10,7 +10,7 @@
 ### 🔭 I’m currently working on...
 
 - 🦸 API about the Marvel Cinematic Universe (movies, tv shows, characters) - [mcuapi](https://github.com/augustomarcelo/mcuapi)
-- 👓 Optical clinic work order (API and frontend) (freelance)
+- 👷 building solutions with Enonic JS
 
 ### 🔎 Where can you find me...
 
